@@ -1,7 +1,7 @@
 [
   {
     "ContainingType": "APIporAlumno.Controllers.JimenaPostaController",
-    "Method": "EnviarRequest",
+    "Method": "Get",
     "RelativePath": "api/JimenaPosta",
     "HttpMethod": "GET",
     "IsController": true,

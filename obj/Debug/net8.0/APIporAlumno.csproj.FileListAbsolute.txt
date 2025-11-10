@@ -33,3 +33,4 @@ C:\Users\User\source\repos\APIporAlumno\APIporAlumno\obj\Debug\net8.0\refint\API
 C:\Users\User\source\repos\APIporAlumno\APIporAlumno\obj\Debug\net8.0\APIporAlumno.pdb
 C:\Users\User\source\repos\APIporAlumno\APIporAlumno\obj\Debug\net8.0\APIporAlumno.genruntimeconfig.cache
 C:\Users\User\source\repos\APIporAlumno\APIporAlumno\obj\Debug\net8.0\ref\APIporAlumno.dll
+C:\Users\User\source\repos\APIporAlumno\APIporAlumno\obj\Debug\net8.0\APIporAlumno.sourcelink.json
